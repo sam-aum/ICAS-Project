@@ -102,19 +102,20 @@ Announcements
     4. What is the purpose of each page?
 
 
-Login for wixs page
+
 
 ### Week 1
-* Setup work environment
-* Create Navbar
-* Update Background
+    * Setup work environment
+    * Create Navbar
+    * Update Background
 
 ### Week 2
 Upgrade navbar
-    • Figure out what should be on the navbar
-        ○ And the Hamburger
-    • Color 
-    • Categorization 
-    • Send draft to Daniel
+    * Figure out what should be on the navbar
+    * And the Hamburger
+    * Color 
+    * Categorization 
+    *  Send draft to Daniel
+    * Login for wixs page
 
 Work on framework for the first section
