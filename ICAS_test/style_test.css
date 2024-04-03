@@ -1,0 +1,19 @@
+body {
+    padding-top: 100px; /* Adjust according to the navbar height */
+}
+
+.navbar {
+    background-color: #006400; /* Updated background color */
+    color: #FFFFFF; /* Text color */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-brand {
+    font-family: Arial, sans-serif;
+    font-size: 3rem;
+    text-decoration: none;
+    color: inherit;
+}
