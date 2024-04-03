@@ -19,9 +19,9 @@ Section on Upcoming Programs
 
 
 
-## Step 1: Decide on what should be highlighted on the website
+### Step 1: Decide on what should be highlighted on the website
 * Ask what the purpose is of each page
-## Step 2: Decide what programing language we can use
+### Step 2: Decide what programing language we can use
     • Django - meant for news sites because it is dynamic (easy to update)
         ○ Python code 
         ○ Html templates - structure of a web page
@@ -29,10 +29,10 @@ Section on Upcoming Programs
     • JavaScript - make website more interactive 
         ○ Can directly manipulate the DOM
         ○ DOM - Document Object Model - tree like hierarchy of the website 
-## Step 3: Set up Django
-## Step 4: Figure out how to import all data most efficiently
-## Step 5: Continue working on the backend
-## Step 6: Start designing the frontend
+### Step 3: Set up Django
+### Step 4: Figure out how to import all data most efficiently
+### Step 5: Continue working on the backend
+### Step 6: Start designing the frontend
 
 Front-end: create model templates
 
@@ -104,7 +104,12 @@ Announcements
 
 Login for wixs page
 
+### Week 1
+* Setup work environment
+* Create Navbar
+* Update Background
 
+### Week 2
 Upgrade navbar
     • Figure out what should be on the navbar
         ○ And the Hamburger
