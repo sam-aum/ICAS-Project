@@ -4,21 +4,6 @@ ICAS Update
 I am updating this website.
 
 
-
-Upcoming Programs
-    • 
-
-Bulletin - all news
-
-
-Section on Bulletin
-
-Section on Upcoming Programs
-    • One big one
-    • Others in a row
-
-
-
 ### Step 1: Decide on what should be highlighted on the website
 * Ask what the purpose is of each page
 ### Step 2: Decide what programing language we can use
@@ -34,11 +19,10 @@ Section on Upcoming Programs
 ### Step 5: Continue working on the backend
 ### Step 6: Start designing the frontend
 
-Front-end: create model templates
 
 
 
-###A Card
+### A Card
 * Image
 * Title
 * Date
@@ -67,7 +51,13 @@ Front-end: create model templates
 
 
 
-Front-end minor changes
+
+
+### Week 1
+    * Setup work environment
+    * Create Navbar
+    * Update Background
+    Front-end minor changes
     1. Make a list of minor changes
         a. Navbar
         b. Search Bar
@@ -75,21 +65,31 @@ Front-end minor changes
             i. Think of color schemes
     2. Front-end model template
 
+### Week 2
+    * Continue upgrading navbar
+    * Figure out what should be on the navbar
+    * And the Hamburger
+    * Color 
+    * Categorization 
+    * Send draft to Daniel
+    * Login for wixs page
+    * Work on framework for the first section
 
 
 
+## Page Info
 About 
-    • Mission
-    • Strategy
-    • Staff
-    • Fellows
-    • Institutional documents/historical documents
+* Mission
+* Strategy
+* Staff
+* Fellows
+* Institutional documents/historical documents
 
 Events
-    • Symposia
-    • Fundraisers
-    • Dinners
-    • Tennis matches
+* Symposia
+* Fundraisers
+* Dinners
+* Tennis matches
 
 
 Events
@@ -100,22 +100,3 @@ Announcements
     2. What is the main features of the website
     3. Is there a way to categories these pages
     4. What is the purpose of each page?
-
-
-
-
-### Week 1
-    * Setup work environment
-    * Create Navbar
-    * Update Background
-
-### Week 2
-Upgrade navbar
-    * Figure out what should be on the navbar
-    * And the Hamburger
-    * Color 
-    * Categorization 
-    *  Send draft to Daniel
-    * Login for wixs page
-
-Work on framework for the first section
