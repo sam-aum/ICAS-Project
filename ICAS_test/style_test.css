@@ -9,6 +9,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 9999; /* Ensure the navbar is above other content */
+    overflow: visible; /* Allow dropdowns to overflow the navbar */
 }
 
 .navbar-brand {
@@ -18,3 +20,7 @@ body {
     color: inherit;
 }
 
+
+.dropdown-menu {
+    z-index: 10000; /* Ensure dropdowns appear above navbar */
+}
