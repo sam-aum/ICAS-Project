@@ -14,3 +14,45 @@
 .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
     display: block;
 }
+
+
+/* Hide the multimedia dropdown menu by default */
+#multimediaDropdown {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 100%; /* Position the dropdown to the right of the parent */
+    min-width: 10rem; /* Adjust the minimum width as needed */
+}
+
+/* Show the multimedia dropdown menu when hovering over the Multimedia link */
+.multimedia-dropdown:hover #multimediaDropdown {
+    display: block;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000; /* Ensure the dropdown is above other content */
+    animation: fadeIn 0.3s ease-in-out forwards;
+}
+
+/* Show the dropdown menus when hovering over the dropdown items */
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+/* Delay animation for dropdown */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
