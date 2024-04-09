@@ -3,6 +3,12 @@ ICAS Update
 
 I am updating this website.
 
+Previous Home Page
+![Index Page](https://github.com/sam-aum/ICAS-Project/assets/95770704/0888e6d6-5538-43e9-b049-f9053cae9102)
+
+Previous Bulletin Page
+![Bulletin](https://github.com/sam-aum/ICAS-Project/assets/95770704/656c58a3-8b12-49b6-bdbd-5e01ef71066d)
+
 
 ### Step 1: Decide on what should be highlighted on the website
 * Ask what the purpose is of each page
